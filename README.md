@@ -18,12 +18,12 @@
             </button>
 <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto align-items-center">
-                    <li class="nav-item"><a class="nav-link" href="index.html">Beranda</a></li>
-                    <li class="nav-item"><a class="nav-link" href="index.html#layanan">Layanan</a></li>
-                    <li class="nav-item"><a class="nav-link active" href="produk.html">Harga</a></li>
-                    <li class="nav-item"><a class="nav-link" href="index.html#proses">Cara Kerja</a></li>
-<li class="nav-item"><a class="nav-link" href="index.html#kontak">Contact</a></li>
-                    <li class="nav-item ms-3"><a href="produk.html" class="btn btn-primary">Order Sekarang</a></li>
+                    <li class="nav-item"><a class="nav-link" href="index.html">Home page</a></li>
+                    <li class="nav-item"><a class="nav-link" href="index.html#services">Services</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="product.html">Price</a></li>
+                    <li class="nav-item"><a class="nav-link" href="index.html#process">Ways of working</a></li>
+<li class="nav-item"><a class="nav-link" href="index.html#contact">Contact</a></li>
+                    <li class="nav-item ms-3"><a href="product.html" class="btn btn-primary">Order Now</a></li>
                 </ul>
             </div>
         </div>
@@ -34,8 +34,8 @@
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.html" class="text-primary text-decoration-none">Beranda</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Harga & Layanan</li>
+                    <li class="breadcrumb-item"><a href="index.html" class="text-primary text-decoration-none">Home page</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Price & Service</li>
                 </ol>
 </none>
 <h1 class="display-4 fw-bold mb-3">Price & Service List</h1>
@@ -67,24 +67,24 @@
             <!-- Service Cards -->
             <div class="row g-4" id="serviceCards">
 <!-- Dry Cleaning -->
-                <div class="col-md-4 service-item" data-category="pakaian">
+                <div class="col-md-4 service-item" data-category="clothes">
                     <div class="service-card">
-                        <img src="https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?w=500" alt="Cuci Kering">
+                        <img src="https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?w=500" alt="Dry Clean">
                         <div class="service-body">
-                            <span class="badge bg-success mb-2">Paling Populer</span>
-                            <h3 class="service-title">Cuci Kering</h3>
+                            <span class="badge bg-success mb-2">Most Popular</span>
+                            <h3 class="service-title">Dry Clean</h3>
 <p class="text-muted mb-3"><i class="fas fa-clock text-primary me-2"></i>Completed in 2 Days · Fold Neatly</p>
                             <ul class="text-muted mb-3">
 <li>Maximum clean wash</li>
-<li>Pewangi premium</li>
-<li>Lipat rape & rape</li>
+<li>Fragrance premium</li>
+<li>Wash & Fold</li>
 <li>Free plastic wrapping</li>
                             </ul>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div>
 <small class="text-muted">Starting from</small>
-                                    <div class="price">Rp 5.000/kg</div>
-                                    <small class="text-muted">Min. 3kg</small>
+                                    <div class="price">Rp 11.000/lbs</div>
+                                    <small class="text-muted">Min. 7lbs</small>
                                 </div>
                                 <a href="https://wa.me/6281234567890?text=Halo,%20saya%20ingin%20order%20Cuci%20Kering" class="btn btn-primary rounded-pill">Order</a>
                             </div>
@@ -93,7 +93,7 @@
                 </div>
 
 <!-- Wash Iron -->
-                <div class="col-md-4 service-item" data-category="pakaian">
+                <div class="col-md-4 service-item" data-category="clothes">
                     <div class="service-card">
                         <img src="https://images.unsplash.com/photo-1489274495757-95c7c837b101?w=500" alt="Cuci Setrika">
                         <div class="service-body">
@@ -109,8 +109,8 @@
                             <div class="d-flex justify-content-between align-items-center">
                                 <div>
 <small class="text-muted">Starting from</small>
-                                    <div class="price">Rp 7.000/kg</div>
-                                    <small class="text-muted">Min. 3kg</small>
+                                    <div class="price">Rp 15.000/lbsg</div>
+                                    <small class="text-muted">Min. 7lbs</small>
                                 </div>
                                 <a href="https://wa.me/6281234567890?text=Halo,%20saya%20ingin%20order%20Cuci%20Setrika" class="btn btn-primary rounded-pill">Order</a>
                             </div>
@@ -119,13 +119,13 @@
                 </div>
 
 <!-- Express 1 Day -->
-                <div class="col-md-4 service-item" data-category="pakaian premium">
+                <div class="col-md-4 service-item" data-category="premium clothing">
                     <div class="service-card">
                         <img src="https://images.unsplash.com/photo-1604335399105-a0c585fd81a1?w=500" alt="Express">
                         <div class="service-body">
 <span class="badge bg-danger mb-2">Super Fast</span>
                             <h3 class="service-title">Express 1 Hari</h3>
-                            <p class="text-muted mb-3"><i class="fas fa-clock text-danger me-2"></i>Selesai 24 Jam · Prioritas</p>
+                            <p class="text-muted mb-3"><i class="fas fa-clock text-danger me-2"></i>Finished in 24 Hours · Priority</p>
                             <ul class="text-muted mb-3">
 <li>Processing Priority</li>
 <li>Premium wash + iron</li>
@@ -135,8 +135,8 @@
                             <div class="d-flex justify-content-between align-items-center">
                                 <div>
 <small class="text-muted">Starting from</small>
-                                    <div class="price">Rp 10.000/kg</div>
-                                    <small class="text-muted">Min. 2kg</small>
+                                    <div class="price">Rp 22.000/lbs</div>
+                                    <small class="text-muted">Min. 4lbs</small>
                                 </div>
                                 <a href="https://wa.me/6281234567890?text=Halo,%20saya%20ingin%20order%20Express%201%20Hari" class="btn btn-primary rounded-pill">Order</a>
                             </div>
@@ -145,13 +145,13 @@
                 </div>
 
 <!-- Wash Shoes -->
-                <div class="col-md-4 service-item" data-category="khusus premium">
+                <div class="col-md-4 service-item" data-category="premium special">
                     <div class="service-card">
-                        <img src="https://images.unsplash.com/photo-1610557892470-55d9e80c0bce?w=500" alt="Sepatu">
+                        <img src="https://images.unsplash.com/photo-1610557892470-55d9e80c0bce?w=500" alt="Shoe">
                         <div class="service-body">
                             <span class="badge bg-warning text-dark mb-2">Premium Care</span>
 <h3 class="service-title">Shoe Washing</h3>
-                            <p class="text-muted mb-3"><i class="fas fa-clock text-primary me-2"></i>Selesai 3 Hari · Deep Clean</p>
+                            <p class="text-muted mb-3"><i class="fas fa-clock text-primary me-2"></i>Completed 3 Days · Deep Clean</p>
                             <ul class="text-muted mb-3">
                                 <li>Deep cleaning all type</li>
 <li>Repaint (optional)</li>
@@ -529,4 +529,5 @@ observer.observe(el.parentElement);
     </script>
 </body>
 </html>
+
 
