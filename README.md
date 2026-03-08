@@ -171,11 +171,11 @@
                 </div>
 
 <!-- Carpet Cleaning -->
-                <div class="col-md-4 service-item" data-category="khusus">
+                <div class="col-md-4 service-item" data-category="special">
                     <div class="service-card">
-                        <img src="https://images.unsplash.com/photo-1631679706909-1844bbd07221?w=500" alt="Karpet">
+                        <img src="https://images.unsplash.com/photo-1631679706909-1844bbd07221?w=500" alt="Carpet">
                         <div class="service-body">
-                            <h3 class="service-title">Cuci Karpet</h3>
+                            <h3 class="service-title">Wash Carpets</h3>
 <p class="text-muted mb-3"><i class="fas fa-clock text-primary me-2"></i>Completed in 4 Days · Total Clean</p>
                             <ul class="text-muted mb-3">
 <li>Vacuum + thorough cleaning</li>
@@ -194,41 +194,15 @@
                         </div>
                     </div>
                 </div>
-
-<!-- Wash the Doll -->
-                <div class="col-md-4 service-item" data-category="khusus">
+<!-- Comforter/Blanket Washing -->
+                <div class="col-md-4 service-item" data-category="special">
                     <div class="service-card">
-                        <img src="https://images.unsplash.com/photo-1540574163026-643ea20ade25?w=500" alt="Boneka">
+                        <img src="https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=500" alt="Blanket/Comforter">
                         <div class="service-body">
-<h3 class="service-title">Doll Wash</h3>
-                            <p class="text-muted mb-3"><i class="fas fa-clock text-primary me-2"></i>Selesai 3 Hari · Gentle Care</p>
+<h3 class="service-title">Wash Blankets & Comforters</h3>
+                            <p class="text-muted mb-3"><i class="fas fa-clock text-primary me-2"></i>Completed 3 Days· Soft & Fluffy</p>
                             <ul class="text-muted mb-3">
-<li>Wash gently & carefully</li>
-<li>Safe for children</li>
-<li>The shape remains neat</li>
-<li>Hypoallergenic fragrance</li>
-                            </ul>
-                            <div class="d-flex justify-content-between align-items-center">
-                                <div>
-<small class="text-muted">Starting from</small>
-                                    <div class="price">Rp 20.000/pcs</div>
-                                    <small class="text-muted">Size S-M</small>
-                                </div>
-                                <a href="https://wa.me/6281234567890?text=Halo,%20saya%20ingin%20order%20Cuci%20Boneka" class="btn btn-primary rounded-pill">Order</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-<!-- Wash Blanket -->
-                <div class="col-md-4 service-item" data-category="khusus">
-                    <div class="service-card">
-                        <img src="https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=500" alt="Selimut">
-                        <div class="service-body">
-<h3 class="service-title">Wash Blankets</h3>
-                            <p class="text-muted mb-3"><i class="fas fa-clock text-primary me-2"></i>Selesai 3 Hari · Soft & Fluffy</p>
-                            <ul class="text-muted mb-3">
-<li>Wash thick/thin blankets</li>
+<li>Wash thick/thin comforters & blankets</li>
 <li>Premium softener</li>
 <li>Anti-bacterial & anti-mite</li>
 <li>Stay soft & fluffy</li>
@@ -246,24 +220,24 @@
                 </div>
 
 <!-- Wash Bag -->
-                <div class="col-md-4 service-item" data-category="premium khusus">
+                <div class="col-md-4 service-item" data-category="special premium">
                     <div class="service-card">
                         <img src="https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=500" alt="Tas">
                         <div class="service-body">
                             <span class="badge bg-warning text-dark mb-2">Premium</span>
-                            <h3 class="service-title">Cuci Tas</h3>
-                            <p class="text-muted mb-3"><i class="fas fa-clock text-primary me-2"></i>Selesai 3-4 Hari · Expert Care</p>
+                            <h3 class="service-title">Wash Bag</h3>
+                            <p class="text-muted mb-3"><i class="fas fa-clock text-primary me-2"></i>Finished in 3-4 days· Expert Care</p>
                             <ul class="text-muted mb-3">
-                                <li>All type bags (ransel, tote, dll)</li>
+                                <li>All type bags (backpacks, totes, etc)</li>
                                 <li>Deep cleaning + sanitize</li>
 <li>Material-specific treatment</li>
-                                <li>Leather conditioning (opsional)</li>
+                                <li>Leather conditioning (optional)</li>
                             </ul>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div>
 <small class="text-muted">Starting from</small>
                                     <div class="price">Rp 35.000/pcs</div>
-                                    <small class="text-muted">Ransel/Tote</small>
+                                    <small class="text-muted">backpack/Tote</small>
                                 </div>
                                 <a href="https://wa.me/6281234567890?text=Halo,%20saya%20ingin%20order%20Cuci%20Tas" class="btn btn-primary rounded-pill">Order</a>
                             </div>
@@ -272,12 +246,12 @@
                 </div>
 
 <!-- Wash Curtains -->
-                <div class="col-md-4 service-item" data-category="khusus">
+                <div class="col-md-4 service-item" data-category="special">
                     <div class="service-card">
-                        <img src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=500" alt="Gordyn">
+                        <img src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=500" alt="Curtains">
                         <div class="service-body">
-                            <h3 class="service-title">Cuci Gordyn</h3>
-                            <p class="text-muted mb-3"><i class="fas fa-clock text-primary me-2"></i>Selesai 4-5 Hari · Fresh</p>
+                            <h3 class="service-title">Wash Curtains</h3>
+                            <p class="text-muted mb-3"><i class="fas fa-clock text-primary me-2"></i>Finished in 4-5 Days · Fresh</p>
                             <ul class="text-muted mb-3">
 <li>Sewing all types of curtains</li>
 <li>Remove dust & stains</li>
@@ -288,7 +262,7 @@
                                 <div>
 <small class="text-muted">Starting from</small>
                                     <div class="price">Rp 18.000/m²</div>
-                                    <small class="text-muted">Per meter persegi</small>
+                                    <small class="text-muted"Per square meter</small>
                                 </div>
                                 <a href="https://wa.me/6281234567890?text=Halo,%20saya%20ingin%20order%20Cuci%20Gordyn" class="btn btn-primary rounded-pill">Order</a>
                             </div>
@@ -304,7 +278,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-8">
-                    <h3 class="fw-bold mb-3"><i class="fas fa-gift text-danger me-2"></i>Promo Spesial Bulan Ini!</h3>
+                    <h3 class="fw-bold mb-3"><i class="fas fa-gift text-danger me-2"></i>This Month's Special Promo!</h3>
                     <ul class="mb-0">
 <li class="mb-2">🎉 20% discount for new customers (min. 5kg)</li>
 <li class="mb-2">💰 Free shipping within a 3km radius</li>
@@ -402,8 +376,8 @@ Completely safe! We use premium detergents that are gentle on all fabrics and se
                 <div class="col-lg-2 col-md-4">
                     <h5 class="fw-bold mb-3">Layanan</h5>
                     <ul class="list-unstyled">
-                        <li class="mb-2"><a href="produk.html" class="footer-link">Cuci Kering</a></li>
-<li class="mb-2"><a href="produk.html" class="footer-link">Washing and Ironing</a></li>
+                        <li class="mb-2"><a href="produk.html" class="footer-link">Dry Clean</a></li>
+<li class="mb-2"><a href="product.html" class="footer-link">Washing and Ironing</a></li>
                         <li class="mb-2"><a href="produk.html" class="footer-link">Express</a></li>
                         <li class="mb-2"><a href="produk.html" class="footer-link">Premium Care</a></li>
                     </ul>
@@ -411,34 +385,34 @@ Completely safe! We use premium detergents that are gentle on all fabrics and se
                 <div class="col-lg-2 col-md-4">
 <h5 class="fw-bold mb-3">Company</h5>
                     <ul class="list-unstyled">
-                        <li class="mb-2"><a href="#" class="footer-link">Tentang Kami</a></li>
-                        <li class="mb-2"><a href="#" class="footer-link">Karir</a></li>
-                        <li class="mb-2"><a href="#" class="footer-link">Mitra</a></li>
-                        <li class="mb-2"><a href="#" class="footer-link">Testimoni</a></li>
+                        <li class="mb-2"><a href="#" class="footer-link">About Us</a></li>
+                        <li class="mb-2"><a href="#" class="footer-link">Career</a></li>
+                        <li class="mb-2"><a href="#" class="footer-link">Partner</a></li>
+                        <li class="mb-2"><a href="#" class="footer-link">Testimonial</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-2 col-md-4">
-                    <h5 class="fw-bold mb-3">Bantuan</h5>
+                    <h5 class="fw-bold mb-3">Help</h5>
                     <ul class="list-unstyled">
                         <li class="mb-2"><a href="#" class="footer-link">FAQ</a></li>
-                        <li class="mb-2"><a href="#" class="footer-link">Cara Order</a></li>
-                        <li class="mb-2"><a href="#" class="footer-link">Syarat & Ketentuan</a></li>
+                        <li class="mb-2"><a href="#" class="footer-link">How to Order</a></li>
+                        <li class="mb-2"><a href="#" class="footer-link">Terms & Conditions</a></li>
 <li class="mb-2"><a href="#" class="footer-link">Privacy Policy</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-2 col-md-4">
 <h5 class="fw-bold mb-3">Contact Us</h5>
                     <ul class="list-unstyled">
-                        <li class="mb-2 text-muted"><i class="fas fa-phone me-2"></i>0812-3456-7890</li>
+                        <li class="mb-2 text-muted"><i class="fas fa-phone me-2"></i>443-882-1356</li>
                         <li class="mb-2 text-muted"><i class="fas fa-envelope me-2"></i>info@saficleaningco.net.id</li>
-                        <li class="mb-2 text-muted"><i class="fas fa-map-marker-alt me-2"></i>Bandung, Indonesia</li>
+                        <li class="mb-2 text-muted"><i class="fas fa-map-marker-alt me-2"></i>Bowie, Maryland</li>
                         <li class="mb-2 text-muted"><i class="fas fa-clock me-2"></i>24/7 Service</li>
                     </ul>
                 </div>
             </div>
             <hr style="border-color: #333;">
             <div class="text-center py-3">
-                <p class="text-muted mb-0">&copy; 2025 Doni Sw. All Rights Reserved. Made with <i class="fas fa-heart text-danger"></i> in Indonesia</p>
+                <p class="text-muted mb-0">&copy; 2025 Doni Sw. All Rights Reserved. Made with <i class="fas fa-heart text-danger"></i> Maryland, USA</p>
             </div>
         </div>
     </footer>
@@ -448,7 +422,7 @@ Completely safe! We use premium detergents that are gentle on all fabrics and se
         // Active nav link
         document.querySelectorAll('.nav-link').forEach(link => {
             const href = link.getAttribute('href');
-            if (href === 'produk.html' || (href && href.includes('produk.html'))) {
+            if (href === 'product.html' || (href && href.includes('product.html'))) {
                 link.classList.add('active');
             } else {
                 link.classList.remove('active');
@@ -529,5 +503,6 @@ observer.observe(el.parentElement);
     </script>
 </body>
 </html>
+
 
 
